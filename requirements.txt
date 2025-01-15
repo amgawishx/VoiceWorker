@@ -1,0 +1,4 @@
+streamlit==1.26.0
+faster-whisper==1.0.0
+torch==2.0.1+cu118
+torchaudio==2.0.1
