@@ -66,7 +66,7 @@ Faster Whisper is especially advantageous for interactive applications like Voic
 
 ## Acknowledgments
 
-- [Faster Whisper](https://github.com/openai/whisper) for providing the optimized transcription model.
+- [Faster Whisper](https://github.com/SYSTRAN/faster-whisper) for providing the optimized transcription model.
 - [Streamlit](https://streamlit.io/) for the interactive user interface framework.
 
 ---
