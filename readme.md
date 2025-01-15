@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/371e52da-7614-408a-b6b7-5ef9890489d2)
+
 # VoiceWorker
 
 VoiceWorker is a Streamlit-based application for transcribing audio files or recordings using the Faster Whisper model. This app supports multiple languages and allows users to choose from various pre-trained model sizes for transcription tasks.
